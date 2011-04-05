@@ -1,0 +1,17 @@
+[15-Oct-2010 14:11:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 2
+[15-Oct-2010 14:12:26] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 2
+[15-Oct-2010 14:12:55] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 2
+[15-Oct-2010 14:13:37] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 3
+[15-Oct-2010 14:16:23] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:16:34] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:16:35] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:16:36] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:16:36] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:16:36] PHP Parse error:  syntax error, unexpected '<' in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 4
+[15-Oct-2010 14:17:25] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/derekwi/public_html/derekwilliams.us/bots/rps/index.php on line 2
+[29-Oct-2010 20:22:33] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting ',' or ';' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 10
+[29-Oct-2010 20:23:05] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting ',' or ';' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 10
+[29-Oct-2010 20:23:07] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting ',' or ';' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 10
+[29-Oct-2010 20:23:49] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting ',' or ';' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 11
+[29-Oct-2010 20:25:18] PHP Parse error:  syntax error, unexpected T_ELSEIF, expecting ',' or ';' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 11
+[29-Oct-2010 20:32:15] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/derekwi/public_html/derekwilliams.us/bots/rps/scorerps.php on line 10

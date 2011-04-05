@@ -1,0 +1,7 @@
+bots contains source code solutions for Friday Fragment game bots.
+
+Game bots are pluggable web services to play games in a man vs. machine (or machine vs. machine) contest.  Games here are Rock-paper-scissors, Tic-tac-toe, and Reversi / Othello.
+
+See: index.html
+     http://derekwilliams.us/?s=bots
+     http://derekwilliams.us/bots/
